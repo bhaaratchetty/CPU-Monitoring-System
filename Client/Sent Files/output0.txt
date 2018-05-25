@@ -1,0 +1,10 @@
+top - 12:01:57 up 28 min,  1 user,  load average: 0.19, 0.15, 0.27
+Tasks: 242 total,   2 running, 233 sleeping,   7 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.5 sy,  0.0 ni, 92.6 id,  4.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  8074956 total,  6327676 free,   858956 used,   888324 buff/cache
+KiB Swap:  8288252 total,  8288252 free,        0 used.  6714476 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 3656 daniel    20   0  225952  60836  10948 R  81.2  0.8   0:00.13 python
+ 2021 daniel    20   0 1540176 141700  64408 S  31.2  1.8   0:21.72 compiz
+ 1072 root      20   0  222948  48660  22756 S  12.5  0.6   0:20.95 Xorg
